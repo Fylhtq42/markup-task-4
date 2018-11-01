@@ -1,0 +1,33 @@
+.cat-info p
+{
+    font-family: Candara;
+}
+
+.cat-status
+{
+    margin-top: 30px;
+}
+
+.cat-card p
+{
+    font-size: 18px;
+}
+
+.cat-info
+{
+    margin-left: 10px;
+}
+
+.cat-card img
+{
+    width: 300px;
+    height: 200px;
+}
+
+.cat-card
+{
+    margin: 30px;
+    display: block;
+    word-break: break-all;
+    width: 300px;
+}
